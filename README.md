@@ -1,6 +1,9 @@
+
+https://user-images.githubusercontent.com/60894974/119356917-f524f400-bc74-11eb-9117-64296a6f54e7.mp4
+
 #🍳 quer comprar um tenis? Então vem pra Rocketshoes
 
-![RocketShoes](Captures/preview.mp4)
+
 
 # 💻 Test locally
 
