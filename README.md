@@ -8,7 +8,8 @@
 ```sh
 # Start the json server fake api and run development server
 yarn install
-yarn
+yarn server
+yarn start
 ```
 OR
 
@@ -16,6 +17,7 @@ OR
 ```sh
 # Start the json server fake api and run development server
 npm install
+npm server
 npm start
 ```
 
