@@ -1,6 +1,6 @@
 #🍳 quer comprar um tenis? Então vem pra Rocketshoes
 
-![RocketShoes](captures/preview.mp4)
+![RocketShoes](Captures/preview.mp4)
 
 # 💻 Test locally
 
