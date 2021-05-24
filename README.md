@@ -1,6 +1,6 @@
 #🍳 quer comprar um tenis? Então vem pra Rocketshoes
 
-![Dtmoney](captures/preview.mp4)
+![RocketShoes](captures/preview.mp4)
 
 # 💻 Test locally
 
